@@ -20,6 +20,7 @@
   "homepage": "https://github.com/711524BCS163/Demo#readme",
   "dependencies": {
     "cors": "^2.8.6",
+    "dotenv": "^18.0.3",
     "express": "^5.2.1"
   }
 }
